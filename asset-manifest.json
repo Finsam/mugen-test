@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "./static/css/main.4ffb71ae.chunk.css",
+    "main.js": "./static/js/main.bc217c0d.chunk.js",
+    "main.css.map": "./static/css/main.4ffb71ae.chunk.css.map",
+    "main.js.map": "./static/js/main.bc217c0d.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.7252612a.js",
+    "runtime-main.js.map": "./static/js/runtime-main.7252612a.js.map",
+    "static/css/2.0032627e.chunk.css": "./static/css/2.0032627e.chunk.css",
+    "static/js/2.e2b79412.chunk.js": "./static/js/2.e2b79412.chunk.js",
+    "static/css/2.0032627e.chunk.css.map": "./static/css/2.0032627e.chunk.css.map",
+    "static/js/2.e2b79412.chunk.js.map": "./static/js/2.e2b79412.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.f506dde82d92932b9d2665b474d4feaf.js": "./precache-manifest.f506dde82d92932b9d2665b474d4feaf.js",
+    "service-worker.js": "./service-worker.js",
+    "static/media/Starsback.jpg": "./static/media/Starsback.5f54dc84.jpg",
+    "static/media/bck1.jpg": "./static/media/bck1.92d96a5f.jpg",
+    "static/media/font-awesome.min.css": "./static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/slick-theme.css": "./static/media/slick.f97e3bbf.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7252612a.js",
+    "static/css/2.0032627e.chunk.css",
+    "static/js/2.e2b79412.chunk.js",
+    "static/css/main.4ffb71ae.chunk.css",
+    "static/js/main.bc217c0d.chunk.js"
+  ]
+}
